@@ -11,7 +11,8 @@ The highest number of successful theater campaigns started in May (111) and June
 ### Success Based on Goal/Pledge Comparison 
 The highest number of successful campaigns had a goal between $1,000-$4,999 and the highest number of failed campaigns had a goal of less than $1,000. Furthermore, campaigns with goals $20,000-$24,999, $25,000-$29,999, $30,000 to $34,999, $35,000 to $39,999, $40,000-$44,999, and $50,000+ had a 100% success rate.
 
-#### Theater Outcomes
+#### Theater (Play) Success Rate Percentages
+![Play Goal Vs Pledged](https://github.com/vanessacox333/kickstarter-analysis/blob/main/Resources/Outcome_vs_Goals.png?raw=true)
 
 Analysis and Challenges
 The overview of the analysis is well described with screenshots (2 pt).
