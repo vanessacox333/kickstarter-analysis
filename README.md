@@ -6,16 +6,9 @@
 #### Theater Outcomes Based on Launch Date Graph
 ![Theater Outcomes vs Launch Date](https://github.com/vanessacox333/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_LaunchDate2.png?raw=true)
 
+### The highest number of successful campaigns had a goal between $1,000-$4,999 and the highest number of failed campaigns had a goal of less than $1,000. Furthermore, campaigns with goals $20,000-$24,999, $25,000-$29,999, $30,000 to $34,999, $35,000 to $39,999, $40,000-$44,999, and $50,000+ had a 100% success rate.
 
 
-The highest number of successful campaigns had a goal between $1,000-$4,999 and the highest number of failed campaigns had a goal of less than $1,000. Furthermore, campaigns with goals $20,000-$24,999, $25,000-$29,999, $30,000 to $34,999, $35,000 to $39,999, $40,000-$44,999, and $50,000+ had a 100% success rate.
-
-20000 to 24999
-25000 to 29999
-30000 to 34999
-35000 to 39999
-40000 to 44999
-![image](https://user-images.githubusercontent.com/98576235/153332147-c4459716-a5a3-4ceb-b149-119d944f77f4.png)
 
 Analysis and Challenges
 The overview of the analysis is well described with screenshots (2 pt).
