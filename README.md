@@ -14,6 +14,9 @@ The highest number of successful campaigns had a goal between $1,000-$4,999 and 
 #### Theater (Play) Success Rate Percentages
 ![Play Goal Vs Pledged](https://github.com/vanessacox333/kickstarter-analysis/blob/main/Resources/Outcome_vs_Goals.png?raw=true)
 
+### Difficulties/Challenges
+One difficulty I ran into was that my Outcomes Based on Goal graph looked different than the example. This made me second guess the work I'd done, but then I checked with some classmates and they had been grappling with the same issue. The Bootcampspot data was not the same data we were given, so the graphs are different. Additionally, I was confused because it seems the instructions are also not up to date. For example, it talks about this excel file as if it's the same one we worked with in Bootcampspot. I have two excel files in this kickstarter-analysis repository: data-1-1-3-Starterbook which is what the weekly assignments wanted me to add to the repository, and the Kickstarter_Challenge which is the file for my Weekly Challenge.
+
 Analysis and Challenges
 The overview of the analysis is well described with screenshots (2 pt).
 Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
