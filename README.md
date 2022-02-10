@@ -4,7 +4,7 @@
 ## Analysis and Challenges
 ### The highest number of successful theater campaigns started in May (111) and June (100). The lowest number of successful theater campaigns started in November (54) and December (37). 
 #### Theater Outcomes Based on Launch Date Graph
-![Theater Outcomes v Launch Date](Theater_Outcomes_vs_LaunchDate2.png)
+![Theater Outcomes vs Launch Date](Theater_Outcomes_vs_LaunchDate2.png)
 
 
 
