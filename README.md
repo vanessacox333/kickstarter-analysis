@@ -4,6 +4,7 @@
 ## Analysis and Challenges
 ### The highest number of successful theater campaigns started in May (111) and June (100). The lowest number of successful theater campaigns started in November (54) and December (37). 
 #### Theater Outcomes Based on Launch Date Graph
+![]https://github.com/vanessacox333/kickstarter-analysis/blob/main/Theater_Outcomes_vs_LaunchDate2.png?raw=true
 
 
 
